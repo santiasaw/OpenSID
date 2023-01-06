@@ -1,6 +1,14 @@
 # Abaikan folder desa
-desa/*
-!desa/themes/*
+desa/arsip/*
+desa/*.php
+desa/cache/*
+desa/config/*
+desa/logo/*
+desa/pengaturan/*
+desa/template-surat/*
+desa/upload/*
+desa/widgets/*
+# !desa/*
 
 # Abaikan backup_inkremental
 backup_inkremental/*
