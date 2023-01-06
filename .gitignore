@@ -12,7 +12,7 @@ info.php
 **/.DS_Store
 sftp-config.json
 .php-cs-fixer.cache
-.htaccess
+# .htaccess
 mitra
 
 # Abaikan file cache milik phpintel (plugin sublime text)
